@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhiyuan Lai / Site Title"
+title                    : "Zhiyuan Lai"
 title_separator          : "-"
 name                     : &name "Zhiyuan Lai"
 description              : &description "Zhiyuan Lai's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "liduoduo.jpg"
   name             : "Zhiyuan Lai"
   pronouns         : "he/his/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
+  bio              : "I’m an undergraduate at Peking University, studying Information Management and Sociology. My work explores how technology shapes people’s lives and the inequalities that arise in its use."
+  location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "leohsu1122@outlook.com" 
 
   # Academic websites
   academia         : # URL
