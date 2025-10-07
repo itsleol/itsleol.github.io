@@ -15,9 +15,9 @@ Education
 
 Research experience
 ======
-* Spring 2024 - : Research Assistant
+* Spring 2024 - Present: Research Assistant
   * Department of Information Management, Peking University
-  * Duties includes: Data collecting and data analysis
+  * Duties includes: Data collection and data analysis
   * Supervisor: Dr. Pu Yan
   
 Skills
