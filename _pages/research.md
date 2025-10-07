@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-* Research Assistanct at AI & Society Lab
+* Research Assistant at AI & Society Lab
