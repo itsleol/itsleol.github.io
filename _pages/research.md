@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Research Experiences"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /research_experience
+  - /research_experiences
 ---
 
 {% include base_path %}
