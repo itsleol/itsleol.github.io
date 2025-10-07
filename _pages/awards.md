@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* Award for Academic Excellence (2024, PKU)
-* Award for Merit Student (2025, PKU)
+* Award for Academic Excellence (2024, Peking University)
+* Award for Merit Student (2025, Peking University)
