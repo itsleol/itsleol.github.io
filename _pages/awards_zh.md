@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "所获奖励"
 permalink: /zh/awards/
 lang: zh
 author_profile: true
