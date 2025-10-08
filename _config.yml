@@ -252,6 +252,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # 自定义语言
+  - scope:
+      path: "pages"
+      type: "pages"
+      lang: "zh"
+    values:
+      layout: page
+      lang: zh
   # _teaching
   - scope:
       path: ""
