@@ -1,7 +1,8 @@
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+<!-- {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %} -->
+  {% assign author_data = site["author_" | append: page.lang | default: site.locale | slice: 0,2 ] %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
