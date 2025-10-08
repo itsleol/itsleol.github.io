@@ -240,7 +240,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  publications_zh:
+    output: true
+    permalink: /zh/publications/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
