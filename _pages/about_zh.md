@@ -3,6 +3,7 @@ permalink: /zh/
 title: "关于我"
 excerpt: "关于我"
 author_profile: true
+lang: zh
 redirect_from: 
   - zh/about/
   - zh/about.html
