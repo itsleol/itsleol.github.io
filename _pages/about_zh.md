@@ -1,5 +1,5 @@
 ---
-permalink: /zh
+permalink: /zh/
 title: "关于我"
 excerpt: "关于我"
 author_profile: true
