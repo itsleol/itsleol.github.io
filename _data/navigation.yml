@@ -7,7 +7,7 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
+en:
   - title: "Publications"
     url: /publications/
 
@@ -21,3 +21,15 @@ main:
     url: /cv/
     
 
+zh:
+  - title: "论文"
+    url: /zh/publications/
+
+  - title: "研究"
+    url: /zh/research/
+
+  - title: "奖励"
+    url: /zh/awards/
+  
+  - title: "简历"
+    url: /zh/cv/
