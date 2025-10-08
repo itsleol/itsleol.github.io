@@ -21,7 +21,7 @@ repository               : "itsleol.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author_en:
   # Biographic information
   avatar           : "liduoduo.jpg"
   name             : "Zhiyuan Lai"
@@ -78,6 +78,16 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
+author_zh:
+  # Biographic information
+  avatar           : "liduoduo.jpg"
+  name             : "赖智垣" 
+  bio              : "北京大学信息管理系本科生"
+  location         : "北京"
+  employer         : "北京大学"
+  uri              : # URL
+  email            : "leohsu1122@outlook.com" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -250,6 +260,7 @@ defaults:
       path: ""
       type: pages
     values:
+      lang: "en"
       layout: single
       author_profile: true
   # 自定义语言
