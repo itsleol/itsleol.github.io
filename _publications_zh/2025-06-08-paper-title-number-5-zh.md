@@ -1,8 +1,8 @@
 ---
 title: "这里本应有一篇论文"
-collection: publications
+collection: publications_zh
 category: 会议论文
-permalink: /publication/conference-paper-1
+permalink: /zh/publication/conference-paper-1
 excerpt: '不幸的是，本人暂无公开发表论文。'
 date: 2025-10-07
 venue: '社会学研究'
