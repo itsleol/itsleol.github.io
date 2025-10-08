@@ -21,7 +21,14 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        {% if category[1].title == "Conference Papers" %}
+          <h2>会议论文</h2><hr />
+        {% else %}
+        {% if category[1].title == "Journal Papers" %}
+          <h2>期刊论文</h2><hr />
+        {% else %}
+          <h2>{{ category[1].title }}</h2><hr />
+        {% endif %}
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
