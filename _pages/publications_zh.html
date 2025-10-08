@@ -23,8 +23,7 @@ author_profile: true
       {% unless title_shown %}
         {% if category[1].title == "Conference Papers" %}
           <h2>会议论文</h2><hr />
-        {% else %}
-        {% if category[1].title == "Journal Papers" %}
+        {% elsif category[1].title == "Journal Articles" or category[1].title == "Journal Papers" %}
           <h2>期刊论文</h2><hr />
         {% else %}
           <h2>{{ category[1].title }}</h2><hr />
