@@ -1,15 +1,11 @@
-let currentLang = 'en';
-function setLang(langObj) {
-  for (const key in langObj) {
-    const el = document.getElementById(key);
-    if (el) el.textContent = langObj[key];
+document.getElementById('lang-toggle').addEventListener('click', function() {
+  // 获取当前路径
+  var path = window.location.pathname;
+  // 如果已经在中文页面，跳回英文页面
+  if (path.startsWith('/zh/')) {
+    window.location.pathname = path.replace(/^\/zh\//, '/');
+  } else {
+    // 跳转到对应的中文页面
+    window.location.pathname = '/zh' + path;
   }
-}
-document.getElementById('lang-toggle').onclick = function() {
-  currentLang = currentLang === 'en' ? 'zh' : 'en';
-  setLang(currentLang === 'en' ? window.LANG_EN : window.LANG_ZH);
-};
-// 页面加载默认语言
-window.onload = function() {
-  setLang(window.LANG_EN);
-};
+});
