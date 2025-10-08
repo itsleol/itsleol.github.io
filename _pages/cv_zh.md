@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /zh/cv/
 author_profile: true
+lang: zh
 redirect_from:
   - /zh/resume
 ---
