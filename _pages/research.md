@@ -35,7 +35,7 @@ Lead a multi-stage, mixed-methods study addressing the gap in localized AI trust
 **Advisor:** Dr. Xingkun Liang · *Nov 2024 – Mar 2025*  
 **Result:** *First Prize, University Level* · Presented at the *2025 Chinese Sociological Association Annual Conference*  
 - Spearheaded a mixed-methods project integrating **ethnographic fieldwork** in rural Hebei with **computational social science methods**.  
-- Conducted **20+ semi-structured interviews** and a **month of participant observation**, exploring digital life among rural women.  
+- Conducted **20+ semi-structured interviews** and **participant observation**, exploring digital life among rural women.  
 - Independently scraped and analyzed comment data from **Douyin** and **Kuaishou** using **Python (BERTopic)** to model user interaction and self-presentation.  
 - Authored the final report framing short-video use as a **flexible resistance to social marginalization** and a **tool for community building**.
 
