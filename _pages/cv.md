@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download my CV](../files/cv.pdf)
 Education
 ======
 * B.M. in Information Management and Information Systems and B.A. in Sociology, Peking University, 2027 (expected)
