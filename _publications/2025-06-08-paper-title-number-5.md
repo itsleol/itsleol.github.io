@@ -1,12 +1,9 @@
 ---
-title: "This is a Paper"
 collection: publications
-category: conferences
 permalink: /publication/conference-paper-1
-excerpt: 'Unfortunately, I temporarily do not have any published paper.'
-date: 2025-10-07
-venue: '社会学研究'
-paperurl: 'https://itsleol.github.io/files/paper1.pdf'
-citation: 'Lai, Z. (2025). &quot;This is a Paper.&quot; <i>社会学研究</i>. 1(1).'
+excerpt: 'Tang, Y.* & Lai, Z. (Under review) Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots. Journal of Information Science.
+Lai, Z.* & Tang, Y.* (Under Review) Beyond or within the binary? Constructing gendered meanings in generative AI use. iConference 2025.
+Chen, N., Lai, Z., Li, J., Liu, Y., & Yan, P*. (Under Review) See, Trust, and Interact: How AI Disclosure Shapes High School Students’ Trust. iConference 2025.
+'
 ---
 
