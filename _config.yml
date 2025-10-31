@@ -23,7 +23,7 @@ repository               : "itsleol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author_en:
   # Biographic information
-  avatar           : "liduoduo.jpg"
+  avatar           : "profile.JPG"
   name             : "Zhiyuan Lai"
   pronouns         : "he/his/him"  
   bio              : "Undergraduate at Department of Information Management, Peking University"
