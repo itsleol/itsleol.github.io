@@ -20,17 +20,21 @@ Research experience
 * Spring 2024 - Present: Research Assistant
   * Department of Information Management, Peking University
   * Duties includes: Data collection and data analysis
-  * Supervisor: Dr. Pu Yan
+  * Advisor: Dr. Pu Yan
   
 Skills
 ======
-* Python, R, Stata, SPSS, SQL
+* Languages: English (TOEFL: 104), Chinese (native), Hakka (native)
+* Programming Languages: Python, SQL, JavaScript, HTML, CSS
+* Quantitative Analysis: R, Stata, SPSS
+* Qualitative Analysis: NVivo
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Tang, Y.* & **Lai, Z**. (Under review) Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots. *Journal of Information Science*.<br>
+**Lai, Z.*** & Tang, Y. (Under Review) Beyond or within the binary? Constructing gendered meanings in generative AI use. *iConference 2025*.<br>
+Chen, N., **Lai, Z.**, Li, J., Liu, Y., & Yan, P\*. (Under Review) See, Trust, and Interact: How AI Disclosure Shapes High School Students’ Trust. *iConference 2025*.<br>
   
 Service and leadership
 ======
