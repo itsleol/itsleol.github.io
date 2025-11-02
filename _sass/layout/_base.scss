@@ -19,6 +19,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+  letter-spacing: 0.3px;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
