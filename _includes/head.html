@@ -30,3 +30,29 @@
 <script src="/assets/js/lang-en.js"></script>
 <script src="/assets/js/lang-zh.js"></script>
 <script src="/assets/js/lang-toggle.js"></script>
+
+<script>
+(function(){
+  const endpoint = "website-jmddp963x-leolais-projects.vercel.app/api/track";
+
+  const payload = {
+    path: location.pathname + location.search,
+    referrer: document.referrer || null,
+    userAgent: navigator.userAgent,
+    ts: new Date().toISOString()
+  };
+
+  const blob = new Blob([JSON.stringify(payload)], {type:'application/json'});
+  if (navigator.sendBeacon) {
+    navigator.sendBeacon(endpoint, blob);
+  } else {
+    fetch(endpoint, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+      keepalive: true
+    });
+  }
+})();
+</script>
+
