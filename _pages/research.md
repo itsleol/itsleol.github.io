@@ -30,7 +30,18 @@ Lead a multi-stage, mixed-methods study addressing the gap in localized AI trust
 
 ---
 
-## Peking University Challenge Cup Science Competition  
+## Peking University Challenge Cup Science Competition (34th)
+**Project:** *Lives Under Stigma: Biographical Disruption, Continuation, and Reconstruction among HIV-Positive Individuals — Information Practices as a Survival Strategy*
+**Advisor:** Dr. Xingkun Liang · *Nov 2025 – Mar 2026*
+A qualitative study examining how HIV diagnosis triggers biographical rupture and how information practices shape the process of reconstruction.
+- Conducted multi-site fieldwork at Beijing Ditan Hospital and the Beijing Red Ribbon Home, combining semi-structured in-depth interviews, participant observation, and online ethnography.
+- Conceptualized HIV diagnosis as an "information event", a node where information transmission and biographical disruption are inseparable, to bridge life course theory, medical sociology, and information behavior research.
+- Identified dimensions of biographical disruption and reconstruction mechanisms. Developed a typology of information practices — information avoidance, information control, and information shaping — as core survival strategies that mediate between disruption and reconstruction.
+- Demonstrated how structural inequalities systematically condition access to information resources, producing differential capacities for reconstruction.
+
+---
+
+## Peking University Challenge Cup Science Competition (33th)
 **Project:** *Rural Windows on Screens: Self-Presentation and Social Interaction of Middle-Aged and Elderly Women on Short-Video Platforms*  
 **Advisor:** Dr. Xingkun Liang · *Nov 2024 – Mar 2025*  
 **Result:** *First Prize, University Level* · Presented at the *2025 Chinese Sociological Association Annual Conference*  
