@@ -17,8 +17,8 @@ en:
   - title: "Awards"
     url: /awards/
   
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 
 zh:
@@ -31,5 +31,5 @@ zh:
   - title: "奖励"
     url: /zh/awards/
   
-  - title: "简历"
-    url: /zh/cv/
+#  - title: "简历"
+#    url: /zh/cv/
