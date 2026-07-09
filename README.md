@@ -1,6 +1,12 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
+## This Site
+
+This repository powers Zhiyuan Lai's personal academic website at https://itsleol.github.io. The active homepage is a one-page scrolling portfolio, while legacy archive URLs such as `/publications/`, `/research/`, and `/awards/` remain available for compatibility.
+
+For local editing, GitHub Desktop, and GitHub Pages deployment notes, see [`docs/local-github-workflow.md`](docs/local-github-workflow.md).
+
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
 # Getting Started

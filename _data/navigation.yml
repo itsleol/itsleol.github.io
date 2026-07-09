@@ -9,13 +9,13 @@
 
 en:
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Research"
-    url: /research/
+    url: /#research
 
   - title: "Awards"
-    url: /awards/
+    url: /#awards
   
 #  - title: "CV"
 #    url: /cv/
@@ -23,13 +23,13 @@ en:
 
 zh:
   - title: "论文"
-    url: /zh/publications/
+    url: /zh/#publications
 
   - title: "研究"
-    url: /zh/research/
+    url: /zh/#research
 
   - title: "奖励"
-    url: /zh/awards/
+    url: /zh/#awards
   
 #  - title: "简历"
 #    url: /zh/cv/
