@@ -27,7 +27,6 @@ redirect_from:
       <p class="home-profile__eyebrow">Undergraduate researcher</p>
       <p class="home-profile__title">Peking University</p>
       <p>Information Management & Information Systems<br>Sociology (double major)</p>
-      <p class="home-profile__facts">GPA 3.71/4.00 · Top 10% · Beijing, China</p>
     </figcaption>
   </figure>
 </div>

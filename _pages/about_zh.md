@@ -28,7 +28,6 @@ redirect_from:
       <p class="home-profile__eyebrow">本科生研究者</p>
       <p class="home-profile__title">北京大学</p>
       <p>信息管理与信息系统<br>社会学双学位</p>
-      <p class="home-profile__facts">GPA 3.71/4.00 · 前 10% · 中国北京</p>
     </figcaption>
   </figure>
 </div>
