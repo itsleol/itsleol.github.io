@@ -49,7 +49,8 @@ redirect_from:
         <p class="home-education__date">2023–2027</p>
         <div>
           <h3>Peking University</h3>
-          <p>B.M. in Information Management and Information Systems; B.A. in Sociology (double major), expected June 2027.</p>
+          <p>B.M. in Information Management and Information Systems</p>
+          <p>B.A. in Sociology (double major)</p>
         </div>
       </div>
       <div class="home-education__item">
