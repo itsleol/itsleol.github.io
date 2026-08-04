@@ -108,7 +108,7 @@ redirect_from:
     </div>
     <div class="home-manuscript">
       <p class="home-manuscript__status">Manuscript · Under review</p>
-      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the Infamous: Identity Linkage Potential and Everyday Information Practices among People Living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
+      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
     </div>
   </div>
 </section>

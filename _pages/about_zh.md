@@ -109,7 +109,7 @@ redirect_from:
     </div>
     <div class="home-manuscript">
       <p class="home-manuscript__status">在审论文</p>
-      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the Infamous: Identity Linkage Potential and Everyday Information Practices among People Living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
+      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
     </div>
   </div>
 </section>
@@ -142,7 +142,7 @@ redirect_from:
       <p class="home-entry__meta">北京大学第 34 届挑战杯 · 指导教师：梁兴堃老师 · 2025 年 11 月–2026 年 3 月 · 三等奖</p>
       <ul>
         <li>在北京地坛医院与北京红丝带之家开展多点田野，结合半结构式深度访谈、参与式观察与线上民族志。</li>
-        <li>构建分析框架，解释 HIV 感染者如何调节信息暴露、应对具有身份联结潜力的信息流，并将信息转化为可持续的日常行动；成果发表于 2026 年中国社会学会年会。</li>
+        <li>构建分析框架，解释 HIV 感染者如何调节信息暴露、应对具有身份联结潜力的信息流，并将信息转化为可持续的日常行动；成果在 2026 年中国社会学会年会上汇报。</li>
       </ul>
     </article>
 
@@ -151,7 +151,7 @@ redirect_from:
       <p class="home-entry__meta">北京大学第 33 届挑战杯 · 指导教师：梁兴堃老师 · 2024 年 11 月–2025 年 3 月 · 一等奖</p>
       <ul>
         <li>负责混合方法研究，结合河北农村民族志田野与计算社会科学方法，独立使用 Python 抓取抖音、快手公开评论，并通过 BERTopic 分析用户互动与自我呈现。</li>
-        <li>将短视频使用理解为对社会边缘化的柔性抵抗与社群建构工具；成果发表于 2025 年中国社会学会年会。</li>
+        <li>将短视频使用理解为对社会边缘化的柔性抵抗与社群建构工具；成果在 2025 年中国社会学会年会上汇报。</li>
       </ul>
     </article>
   </div>
