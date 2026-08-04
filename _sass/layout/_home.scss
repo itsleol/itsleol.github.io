@@ -183,8 +183,9 @@
   margin: 0;
   color: var(--global-text-color-light);
   font-family: $sans-serif;
-  font-size: 0.76rem;
+  font-size: 1.05rem;
   font-weight: 700;
+  line-height: 1.35;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -194,7 +195,7 @@
   font-family: $header-font-family;
   font-size: clamp(2rem, 4.4vw, 3.8rem);
   font-weight: 500;
-  line-height: 1.05;
+  line-height: 1.18;
   letter-spacing: 0;
 }
 
@@ -224,8 +225,16 @@
 }
 
 .home-education {
-  margin-top: 2.25rem;
+  margin-top: 0;
   border-top: 1px solid var(--global-border-color);
+}
+
+.home-section--education .home-education {
+  border-top: 0;
+}
+
+.home-section--education .home-education__item:first-child {
+  padding-top: 0;
 }
 
 .home-education__item {
@@ -361,6 +370,10 @@
   padding: 1.25rem 0;
   border-top: 1px solid var(--global-border-color);
   border-bottom: 1px solid var(--global-border-color);
+}
+
+.home-manuscript + .home-manuscript {
+  border-top: 0;
 }
 
 .home-manuscript p {

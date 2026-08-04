@@ -39,7 +39,12 @@ redirect_from:
     <p>我的研究位于信息科学、社会学与人机交互的交叉地带。我不仅关心一项技术是否“有效”，也关心人们如何理解它、它塑造了怎样的关系，以及技术设计让哪些经验被看见、又让哪些经验被忽略。</p>
     <p>我主要关注数字不平等、人机信任，以及边缘群体在日常生活中的信息实践。目前的研究涉及生成式 AI 的性别意义、AI 标识与信任、农村中老年女性的短视频使用，以及 HIV 感染者的信息实践。</p>
     <p>自 2024 年起，我在北京大学 <a href="https://ai-and-society.org">AI & Society 课题组</a>担任研究助理，接受<a href="http://www.im.pku.edu.cn/szll/dsjglyyyjys/20240520135748744032/index.htm">闫蒲老师</a>指导。我也在<a href="http://www.im.pku.edu.cn/szll/tsgfzyjs/lxk/index.htm">梁兴堃老师</a>指导下开展田野与质性研究，并与<a href="https://scholar.google.com/citations?user=48Z5kYAAAAAJ&hl=zh-CN">唐筠杰</a>合作研究生成式 AI、性别与 LGBTQIA+ 身份认同。</p>
+  </div>
+</section>
 
+<section class="home-section home-section--education" id="education">
+  <p class="home-section__label">教育</p>
+  <div class="home-section__content home-prose">
     <div class="home-education" aria-label="教育经历">
       <div class="home-education__item">
         <p class="home-education__date">2023–2027</p>
@@ -63,7 +68,6 @@ redirect_from:
   <p class="home-section__label">论文</p>
   <div class="home-section__content">
     <h2>代表性论文</h2>
-    <p class="home-section__intro">近期的两项研究从互补的角度讨论人们如何理解 AI：一项关注人们赋予 AI 的社会意义，另一项关注平台呈现的信任线索。</p>
 
     <article class="publication-item">
       <a class="publication-item__media" href="/files/beyond-gendered-meanings-genai.pdf" aria-label="阅读 Beyond or within the binary 论文 PDF">
@@ -101,7 +105,11 @@ redirect_from:
 
     <div class="home-manuscript">
       <p class="home-manuscript__status">在审论文</p>
-      <p><strong>Yunjie Tang and Zhiyuan Lai.</strong> “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
+      <p>Tang, Y., & <strong>Lai, Z.</strong> (Under Review). “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
+    </div>
+    <div class="home-manuscript">
+      <p class="home-manuscript__status">在审论文</p>
+      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the Infamous: Identity Linkage Potential and Everyday Information Practices among People Living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
     </div>
   </div>
 </section>
@@ -115,35 +123,35 @@ redirect_from:
       <h3>AI & Society 课题组 · 研究助理</h3>
       <p class="home-entry__meta">指导教师：闫蒲老师 · 2024 年 5 月至今</p>
       <ul>
-        <li>参与算法鸿沟与北京市民算法素养课题，承担文献梳理、问卷修订与定量数据分析。</li>
-        <li>关注中国语境下的公众信任、AI 标识及人工智能系统的社会影响。</li>
+        <li>为国家自然科学基金“算法鸿沟影响因素及机制研究”开展文献综述与定量数据分析。</li>
+        <li>支持北京市社会科学基金“北京市民算法素养研究”，参与问卷设计优化与数据分析。</li>
       </ul>
     </article>
 
     <article class="home-entry">
       <h3>中国公众对生成式 AI 的信任与态度</h3>
-      <p class="home-entry__meta">本科生科研项目 · 项目负责人 · 2024 年 5 月–2025 年 10 月</p>
+      <p class="home-entry__meta">本科生科研项目 · 项目负责人 · 2024 年 5 月–2025 年 10 月 · 入选优秀本科生科研项目</p>
       <ul>
-        <li>负责多阶段混合方法研究，通过两轮大规模问卷开发并验证本土化、多维度的生成式 AI 信任量表。</li>
-        <li>设计 Tobii 眼动追踪现场实验，发现简单 AI 标识在对话场景中能够提高信任，却会降低用户对新闻内容的信任。</li>
+        <li>负责多阶段混合方法研究，通过两轮大规模问卷开发并验证本土化的生成式 AI 信任量表。</li>
+        <li>设计融合眼动追踪的控制实验，并使用 R 分析眼动与问卷数据，发现简单 AI 标识会提高对话场景中的信任，却降低新闻消费场景中的信任。</li>
       </ul>
     </article>
 
     <article class="home-entry">
-      <h3>污名下的生命：HIV 感染者的信息实践与生命历程重建</h3>
-      <p class="home-entry__meta">北京大学挑战杯 · 指导教师：梁兴堃老师 · 2025 年 11 月–2026 年 3 月</p>
+      <h3>污名下的生命：作为生存策略的信息实践</h3>
+      <p class="home-entry__meta">北京大学第 34 届挑战杯 · 指导教师：梁兴堃老师 · 2025 年 11 月–2026 年 3 月 · 三等奖</p>
       <ul>
-        <li>在北京地坛医院与北京红丝带之家开展深度访谈、参与式观察与线上民族志。</li>
-        <li>将 HIV 诊断概念化为“信息事件”，并归纳感染者应对生命历程中断的信息回避、信息控制与信息塑造等实践。</li>
+        <li>在北京地坛医院与北京红丝带之家开展多点田野，结合半结构式深度访谈、参与式观察与线上民族志。</li>
+        <li>构建分析框架，解释 HIV 感染者如何调节信息暴露、应对具有身份联结潜力的信息流，并将信息转化为可持续的日常行动；成果发表于 2026 年中国社会学会年会。</li>
       </ul>
     </article>
 
     <article class="home-entry">
-      <h3>屏幕上的乡村窗口：农村中老年女性的短视频自我呈现</h3>
-      <p class="home-entry__meta">北京大学挑战杯 · 指导教师：梁兴堃老师 · 2024 年 11 月–2025 年 3 月</p>
+      <h3>屏幕上的乡村窗口：农村中老年女性的短视频自我呈现与社会互动</h3>
+      <p class="home-entry__meta">北京大学第 33 届挑战杯 · 指导教师：梁兴堃老师 · 2024 年 11 月–2025 年 3 月 · 一等奖</p>
       <ul>
-        <li>结合河北农村民族志田野与抖音、快手公开评论数据的计算分析，研究农村女性的自我呈现与社群互动。</li>
-        <li>将短视频使用理解为对社会边缘化的柔性抵抗与社群建构方式，获北京大学校级一等奖。</li>
+        <li>负责混合方法研究，结合河北农村民族志田野与计算社会科学方法，独立使用 Python 抓取抖音、快手公开评论，并通过 BERTopic 分析用户互动与自我呈现。</li>
+        <li>将短视频使用理解为对社会边缘化的柔性抵抗与社群建构工具；成果发表于 2025 年中国社会学会年会。</li>
       </ul>
     </article>
   </div>

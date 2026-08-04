@@ -38,7 +38,12 @@ redirect_from:
     <p>My work sits at the intersection of information science, sociology, and human-computer interaction. I ask not only whether a technology works, but how people understand it, what kinds of relationships it produces, and whose experiences its design makes visible.</p>
     <p>I am particularly interested in digital inequality, human-AI trust, and the everyday information practices of communities that are often pushed to the margins. My current research examines gendered meanings in generative AI, AI disclosure and trust, rural women's use of short-video platforms, and the information practices of people living with HIV.</p>
     <p>Since 2024, I have worked as a research assistant in Peking University's <a href="https://ai-and-society.org">AI & Society Research Group</a> under <a href="http://www.im.pku.edu.cn/szll/dsjglyyyjys/20240520135748744032/index.htm">Dr. Pu Yan</a>. I also conduct fieldwork-based qualitative research with <a href="http://www.im.pku.edu.cn/szll/tsgfzyjs/lxk/index.htm">Dr. Xingkun Liang</a> and collaborate with <a href="https://scholar.google.com/citations?user=48Z5kYAAAAAJ&hl=en">Yunjie Tang</a> on generative AI, gender, and LGBTQIA+ identity formation.</p>
+  </div>
+</section>
 
+<section class="home-section home-section--education" id="education">
+  <p class="home-section__label">Education</p>
+  <div class="home-section__content home-prose">
     <div class="home-education" aria-label="Education">
       <div class="home-education__item">
         <p class="home-education__date">2023–2027</p>
@@ -62,7 +67,6 @@ redirect_from:
   <p class="home-section__label">Publications</p>
   <div class="home-section__content">
     <h2>Selected publications</h2>
-    <p class="home-section__intro">Two recent papers examine how people make sense of AI: through the social meanings they assign to it and through the trust cues platforms place around it.</p>
 
     <article class="publication-item">
       <a class="publication-item__media" href="/files/beyond-gendered-meanings-genai.pdf" aria-label="Read Beyond or within the binary as a PDF">
@@ -100,7 +104,11 @@ redirect_from:
 
     <div class="home-manuscript">
       <p class="home-manuscript__status">Manuscript · Under review</p>
-      <p><strong>Yunjie Tang and Zhiyuan Lai.</strong> “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
+      <p>Tang, Y., & <strong>Lai, Z.</strong> (Under Review). “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
+    </div>
+    <div class="home-manuscript">
+      <p class="home-manuscript__status">Manuscript · Under review</p>
+      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the Infamous: Identity Linkage Potential and Everyday Information Practices among People Living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
     </div>
   </div>
 </section>
@@ -114,35 +122,35 @@ redirect_from:
       <h3>AI & Society Research Group · Research Assistant</h3>
       <p class="home-entry__meta">Advisor: Dr. Pu Yan · May 2024–Present</p>
       <ul>
-        <li>Contribute literature reviews and quantitative analysis to projects on the algorithmic divide and algorithm literacy among Beijing residents.</li>
-        <li>Study public trust, disclosure, and the social implications of AI systems in China.</li>
+        <li>Conduct literature reviews and quantitative data analysis for a National Natural Science Foundation project on the factors and mechanisms shaping the algorithmic divide.</li>
+        <li>Support a Beijing Social Science Foundation study of algorithm literacy among Beijing residents by refining survey designs and analyzing data.</li>
       </ul>
     </article>
 
     <article class="home-entry">
       <h3>Public Trust and Attitudes toward Generative AI in China</h3>
-      <p class="home-entry__meta">Undergraduate Research Program · Project leader · May 2024–Oct 2025</p>
+      <p class="home-entry__meta">Undergraduate Research Program · Project leader · May 2024–Oct 2025 · Selected as an Excellent Undergraduate Research Project</p>
       <ul>
-        <li>Led a mixed-methods study and developed a localized, multidimensional GenAI Trust Scale through two large-scale surveys.</li>
-        <li>Designed a Tobii eye-tracking field experiment showing that simple AI labels can increase trust in conversational contexts while decreasing trust in news.</li>
+        <li>Led a multi-stage mixed-methods study, developing and validating a localized GenAI Trust Scale across two large-scale surveys.</li>
+        <li>Designed a controlled eye-tracking experiment and analyzed eye-tracking and survey data in R, finding that simple AI labels increased trust in conversational contexts but decreased trust in news consumption.</li>
       </ul>
     </article>
 
     <article class="home-entry">
-      <h3>Lives Under Stigma</h3>
-      <p class="home-entry__meta">Peking University Challenge Cup · Advisor: Dr. Xingkun Liang · Nov 2025–Mar 2026</p>
+      <h3>Lives Under Stigma: Information Practices as a Survival Strategy</h3>
+      <p class="home-entry__meta">34th Peking University Challenge Cup · Advisor: Dr. Xingkun Liang · Nov 2025–Mar 2026 · Third Prize</p>
       <ul>
-        <li>Conducted interviews, participant observation, and online ethnography at Beijing Ditan Hospital and the Beijing Red Ribbon Home.</li>
-        <li>Conceptualized HIV diagnosis as an “information event” and developed a typology of information practices used to navigate biographical disruption.</li>
+        <li>Conducted multi-site fieldwork at Beijing Ditan Hospital and the Beijing Red Ribbon Home using semi-structured interviews, participant observation, and online ethnography.</li>
+        <li>Developed a framework explaining how people living with HIV regulate information exposure, navigate identity-linking information flows, and translate information into sustainable everyday action; presented at the 2026 Annual Meeting of the Chinese Sociological Association.</li>
       </ul>
     </article>
 
     <article class="home-entry">
-      <h3>Rural Windows on Screens</h3>
-      <p class="home-entry__meta">Peking University Challenge Cup · Advisor: Dr. Xingkun Liang · Nov 2024–Mar 2025</p>
+      <h3>Rural Windows on Screens: Self-Presentation and Social Interaction on Short-Video Platforms</h3>
+      <p class="home-entry__meta">33rd Peking University Challenge Cup · Advisor: Dr. Xingkun Liang · Nov 2024–Mar 2025 · First Prize</p>
       <ul>
-        <li>Combined ethnographic fieldwork in rural Hebei with computational analysis of public comments from Douyin and Kuaishou.</li>
-        <li>Framed short-video use as flexible resistance to social marginalization and a means of community building; awarded First Prize at Peking University.</li>
+        <li>Led a mixed-methods project combining ethnographic fieldwork in rural Hebei with computational social science methods, independently scraping and analyzing Douyin and Kuaishou comments in Python with BERTopic.</li>
+        <li>Framed short-video use as flexible resistance to social marginalization and a tool for community building; presented at the 2025 Annual Meeting of the Chinese Sociological Association.</li>
       </ul>
     </article>
   </div>
