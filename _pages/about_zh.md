@@ -25,9 +25,9 @@ redirect_from:
   <figure class="home-hero__media">
     <img class="home-portrait" src="/images/profile.JPG" alt="赖智垣的照片">
     <figcaption class="home-profile">
-      <p class="home-profile__eyebrow">本科生研究者</p>
+      <p class="home-profile__eyebrow">本科生</p>
       <p class="home-profile__title">北京大学</p>
-      <p>信息管理与信息系统<br>社会学双学位</p>
+      <p class="home-profile__degrees">信息管理与信息系统<br>社会学双学位</p>
     </figcaption>
   </figure>
 </div>
@@ -38,7 +38,7 @@ redirect_from:
     <h2>技术首先是一种社会关系。</h2>
     <p>我的研究位于信息科学、社会学与人机交互的交叉地带。我不仅关心一项技术是否“有效”，也关心人们如何理解它、它塑造了怎样的关系，以及技术设计让哪些经验被看见、又让哪些经验被忽略。</p>
     <p>我主要关注数字不平等、人机信任，以及边缘群体在日常生活中的信息实践。目前的研究涉及生成式 AI 的性别意义、AI 标识与信任、农村中老年女性的短视频使用，以及 HIV 感染者的信息实践。</p>
-    <p>自 2024 年起，我在北京大学 <a href="https://ai-and-society.org">AI & Society 课题组</a>担任研究助理，接受<a href="http://www.im.pku.edu.cn/szll/dsjglyyyjys/20240520135748744032/index.htm">闫蒲老师</a>指导。我也在<a href="http://www.im.pku.edu.cn/szll/tsgfzyjs/lxk/index.htm">梁兴堃老师</a>指导下开展田野与质性研究，并与<a href="https://scholar.google.com/citations?user=48Z5kYAAAAAJ&hl=zh-CN">唐筠杰</a>合作研究生成式 AI、性别与 LGBTQIA+ 身份认同。</p>
+    <p>自 2024 年起，我在北京大学 <a href="https://ai-and-society.org">AI & Society 课题组</a>担任研究助理，由<a href="http://www.im.pku.edu.cn/szll/dsjglyyyjys/20240520135748744032/index.htm">闫蒲老师</a>指导。我也在<a href="http://www.im.pku.edu.cn/szll/syry/zzjspx/50122im321310.htm">梁兴堃老师</a>指导下开展田野与质性研究，并与<a href="https://scholar.google.com/citations?user=48Z5kYAAAAAJ&hl=zh-CN">唐筠杰</a>合作研究生成式 AI、性别与 LGBTQIA+ 身份认同。</p>
   </div>
 </section>
 
@@ -57,7 +57,7 @@ redirect_from:
         <p class="home-education__date">2025 年暑期</p>
         <div>
           <h3>台湾清华大学</h3>
-          <p>访学学生；在王子华教授指导下开展台湾公众对生成式 AI 态度的跨文化研究。</p>
+          <p>访学学生。</p>
         </div>
       </div>
     </div>
@@ -108,8 +108,8 @@ redirect_from:
       <p>Tang, Y., & <strong>Lai, Z.</strong> (Under Review). “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
     </div>
     <div class="home-manuscript">
-      <p class="home-manuscript__status">在审论文</p>
-      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
+      <p class="home-manuscript__status">论文 · 已接收</p>
+      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL) 2026</em>, Accepted.</p>
     </div>
   </div>
 </section>

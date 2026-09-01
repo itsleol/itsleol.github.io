@@ -13,7 +13,7 @@
 
 .home-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.45fr) minmax(230px, 0.55fr);
+  grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
   gap: clamp(2.5rem, 8vw, 7rem);
   align-items: center;
   min-height: calc(88vh - #{$masthead-height});
@@ -106,12 +106,12 @@
 
 .home-hero__media {
   width: 100%;
-  max-width: 270px;
+  max-width: 330px;
   margin: 0;
   justify-self: end;
 
   @include breakpoint(max-width $medium) {
-    max-width: 300px;
+    max-width: 330px;
     justify-self: start;
   }
 }
@@ -152,6 +152,10 @@
   margin-top: 0.35rem;
   font-size: 1.03rem;
   font-weight: 800;
+}
+
+.home-profile .home-profile__degrees {
+  white-space: nowrap;
 }
 
 .home-profile .home-profile__facts {
@@ -458,6 +462,10 @@
 
   .home-hero__media {
     max-width: 240px;
+  }
+
+  .home-profile .home-profile__degrees {
+    white-space: normal;
   }
 
   .home-education__item,

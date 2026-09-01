@@ -13,7 +13,7 @@ redirect_from:
   <div class="home-hero__copy">
     <p class="home-kicker">Information science · AI & Society · Digital inequality</p>
     <h1>Zhiyuan Lai</h1>
-    <p class="home-lead">I study how people interpret, negotiate, and reshape digital technologies—and how those interactions reproduce or challenge social inequality.</p>
+    <p class="home-lead">I study how people interpret, negotiate, and reshape digital technologies, and how those interactions reproduce or challenge social inequality.</p>
     <div class="home-actions" aria-label="Profile links">
       <a class="home-button home-button--primary" href="#publications"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</a>
       <a class="home-button" href="/files/cv.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> CV</a>
@@ -24,9 +24,9 @@ redirect_from:
   <figure class="home-hero__media">
     <img class="home-portrait" src="/images/profile.JPG" alt="Portrait of Zhiyuan Lai">
     <figcaption class="home-profile">
-      <p class="home-profile__eyebrow">Undergraduate researcher</p>
+      <p class="home-profile__eyebrow">Undergraduate</p>
       <p class="home-profile__title">Peking University</p>
-      <p>Information Management & Information Systems<br>Sociology (double major)</p>
+      <p class="home-profile__degrees">Information Management & Information Systems<br>Sociology (double major)</p>
     </figcaption>
   </figure>
 </div>
@@ -37,7 +37,7 @@ redirect_from:
     <h2>Technology is social before it is technical.</h2>
     <p>My work sits at the intersection of information science, sociology, and human-computer interaction. I ask not only whether a technology works, but how people understand it, what kinds of relationships it produces, and whose experiences its design makes visible.</p>
     <p>I am particularly interested in digital inequality, human-AI trust, and the everyday information practices of communities that are often pushed to the margins. My current research examines gendered meanings in generative AI, AI disclosure and trust, rural women's use of short-video platforms, and the information practices of people living with HIV.</p>
-    <p>Since 2024, I have worked as a research assistant in Peking University's <a href="https://ai-and-society.org">AI & Society Research Group</a> under <a href="http://www.im.pku.edu.cn/szll/dsjglyyyjys/20240520135748744032/index.htm">Dr. Pu Yan</a>. I also conduct fieldwork-based qualitative research with <a href="http://www.im.pku.edu.cn/szll/tsgfzyjs/lxk/index.htm">Dr. Xingkun Liang</a> and collaborate with <a href="https://scholar.google.com/citations?user=48Z5kYAAAAAJ&hl=en">Yunjie Tang</a> on generative AI, gender, and LGBTQIA+ identity formation.</p>
+    <p>Since 2024, I have worked as a research assistant in Peking University's <a href="https://ai-and-society.org">AI & Society Research Group</a>, directed by <a href="http://www.im.pku.edu.cn/szll/dsjglyyyjys/20240520135748744032/index.htm">Dr. Pu Yan</a>. I also conduct fieldwork-based qualitative research with <a href="http://www.im.pku.edu.cn/szll/syry/zzjspx/50122im321310.htm">Dr. Xingkun Liang</a> and collaborate with <a href="https://scholar.google.com/citations?user=48Z5kYAAAAAJ&hl=en">Yunjie Tang</a> on generative AI, gender, and LGBTQIA+ identity formation.</p>
   </div>
 </section>
 
@@ -57,7 +57,7 @@ redirect_from:
         <p class="home-education__date">Summer 2025</p>
         <div>
           <h3>National Tsing Hua University</h3>
-          <p>Visiting student; conducted a cross-cultural study of Taiwanese public attitudes toward generative AI with Prof. Tzu-Hua Wang.</p>
+          <p>Visiting student.</p>
         </div>
       </div>
     </div>
@@ -108,8 +108,8 @@ redirect_from:
       <p>Tang, Y., & <strong>Lai, Z.</strong> (Under Review). “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
     </div>
     <div class="home-manuscript">
-      <p class="home-manuscript__status">Manuscript · Under review</p>
-      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. (Under Review). “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</em>.</p>
+      <p class="home-manuscript__status">Manuscript · Accepted</p>
+      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL) 2026</em>, Accepted.</p>
     </div>
   </div>
 </section>
