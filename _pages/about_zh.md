@@ -70,6 +70,23 @@ redirect_from:
     <h2>代表性论文</h2>
 
     <article class="publication-item">
+      <a class="publication-item__media" href="/files/jcdl26-39.pdf" aria-label="阅读 Lives of the Infamous 论文 PDF">
+        <img src="/images/publications/practice-interweaving.png" alt="身份联结潜势下三类相互交织的信息实践机制图">
+      </a>
+      <div class="publication-item__body">
+        <p class="publication-item__status"><span>JCDL 2026</span><span>已接收</span></p>
+        <h3>Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV</h3>
+        <p class="publication-item__authors"><strong>Zhiyuan Lai</strong>, Xingkun Liang, Chenyang Jiang, and Zhuoxi Li</p>
+        <p class="publication-item__venue"><em>The 2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL '26)</em></p>
+        <p class="publication-item__summary">本研究通过参与式观察和 22 次半结构式访谈（共 20 位参与者，其中 16 位为 HIV 感染者），提出“身份联结潜势”：特定受众能够接触某个日常线索，并将其解释为某人 HIV 身份证据的情境性可能。研究揭示调节信息参与、应对身份联结的信息流、将信息转化为日常生活三类相互交织的实践，说明对身份联结的预期会让准确、可信的信息也难以付诸行动；据此提出隐私敏感访问、低可见度参与，以及提供多种从信息通往行动的路径等设计启示。</p>
+        <div class="publication-item__links">
+          <a class="publication-link" href="/files/jcdl26-39.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> 原文</a>
+          <a class="publication-link" href="https://doi.org/10.1145/3805696.3846047"><i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i> DOI</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="publication-item">
       <a class="publication-item__media" href="/files/beyond-gendered-meanings-genai.pdf" aria-label="阅读 Beyond or within the binary 论文 PDF">
         <img src="/images/publications/beyond-gendered-meanings-genai.png" alt="Beyond or within the binary 论文首页">
       </a>
@@ -106,10 +123,6 @@ redirect_from:
     <div class="home-manuscript">
       <p class="home-manuscript__status">在审论文</p>
       <p>Tang, Y., & <strong>Lai, Z.</strong> (Under Review). “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
-    </div>
-    <div class="home-manuscript">
-      <p class="home-manuscript__status">论文 · 已接收</p>
-      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL) 2026</em>, Accepted.</p>
     </div>
   </div>
 </section>
@@ -162,12 +175,11 @@ redirect_from:
   <div class="home-section__content">
     <h2>荣誉与奖励</h2>
     <div class="home-awards" role="list">
-      <div class="home-award" role="listitem"><span>2025–2026</span><strong>北京大学第 34 届挑战杯三等奖</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>北京大学三好学生</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>国家励志奖学金</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>北京大学二等奖学金</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>北京大学第 33 届挑战杯一等奖</strong></div>
-      <div class="home-award" role="listitem"><span>2023–2024</span><strong>北京大学学习优秀奖、国家励志奖学金</strong></div>
+      <div class="home-award" role="listitem"><span>2025–2026</span><strong>国家奖学金；北京大学三好学生标兵（校级前 2%）</strong></div>
+      <div class="home-award" role="listitem"><span>2025</span><strong>北京大学第 33 届“挑战杯”学术竞赛一等奖（校级）</strong></div>
+      <div class="home-award" role="listitem"><span>2025</span><strong>北京大学本科生科研训练项目优秀项目</strong></div>
+      <div class="home-award" role="listitem"><span>2024–2025</span><strong>三好学生；国家励志奖学金；二等奖学金</strong></div>
+      <div class="home-award" role="listitem"><span>2023–2024</span><strong>学习优秀奖；国家励志奖学金</strong></div>
     </div>
   </div>
 </section>

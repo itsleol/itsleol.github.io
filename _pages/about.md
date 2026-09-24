@@ -70,6 +70,23 @@ redirect_from:
     <h2>Selected publications</h2>
 
     <article class="publication-item">
+      <a class="publication-item__media" href="/files/jcdl26-39.pdf" aria-label="Read Lives of the Infamous as a PDF">
+        <img src="/images/publications/practice-interweaving.png" alt="Framework showing three interwoven information practices shaped by identity-linkage potential">
+      </a>
+      <div class="publication-item__body">
+        <p class="publication-item__status"><span>JCDL 2026</span><span>Accepted</span></p>
+        <h3>Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV</h3>
+        <p class="publication-item__authors"><strong>Zhiyuan Lai</strong>, Xingkun Liang, Chenyang Jiang, and Zhuoxi Li</p>
+        <p class="publication-item__venue"><em>The 2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL '26)</em></p>
+        <p class="publication-item__summary">Based on participant observation and 22 semi-structured interview sessions with 20 participants, including 16 people living with HIV, this study develops identity-linkage potential: the situated possibility that an audience can interpret an everyday cue as evidence of HIV status. It traces three interwoven practices—regulating engagement with information, navigating identity-linked information flows, and translating information into everyday life—showing how anticipated linkage can make even accurate, trusted information difficult to act on. The findings offer design directions for privacy-sensitive access, low-visibility participation, and multiple routes from information to action.</p>
+        <div class="publication-item__links">
+          <a class="publication-link" href="/files/jcdl26-39.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+          <a class="publication-link" href="https://doi.org/10.1145/3805696.3846047"><i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i> DOI</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="publication-item">
       <a class="publication-item__media" href="/files/beyond-gendered-meanings-genai.pdf" aria-label="Read Beyond or within the binary as a PDF">
         <img src="/images/publications/beyond-gendered-meanings-genai.png" alt="First page of Beyond or within the binary">
       </a>
@@ -106,10 +123,6 @@ redirect_from:
     <div class="home-manuscript">
       <p class="home-manuscript__status">Manuscript · Under review</p>
       <p>Tang, Y., & <strong>Lai, Z.</strong> (Under Review). “Empowering LGBTQIA+ Identity Formation in China Through LLM-based Chatbots.” <em>Journal of Information Science</em>.</p>
-    </div>
-    <div class="home-manuscript">
-      <p class="home-manuscript__status">Manuscript · Accepted</p>
-      <p><strong>Lai, Z.</strong>, Liang, X., Jiang, C., & Li, Z. “Lives of the infamous: Identity linkage potential and everyday information practices among people living with HIV.” <em>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL) 2026</em>, Accepted.</p>
     </div>
   </div>
 </section>
@@ -162,12 +175,11 @@ redirect_from:
   <div class="home-section__content">
     <h2>Honors & awards</h2>
     <div class="home-awards" role="list">
-      <div class="home-award" role="listitem"><span>2025–2026</span><strong>Third Prize, 34th Peking University Challenge Cup</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>Merit Student, Peking University</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>National Encouragement Scholarship</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>Second-Class Scholarship, Peking University</strong></div>
-      <div class="home-award" role="listitem"><span>2024–2025</span><strong>First Prize, 33rd Peking University Challenge Cup</strong></div>
-      <div class="home-award" role="listitem"><span>2023–2024</span><strong>Award for Academic Excellence & National Encouragement Scholarship</strong></div>
+      <div class="home-award" role="listitem"><span>2025–2026</span><strong>National Scholarship; Model Merit Student (Top 2% University-Wide)</strong></div>
+      <div class="home-award" role="listitem"><span>2025</span><strong>First Prize, 33rd Peking University Challenge Cup Academic Competition (University-Level)</strong></div>
+      <div class="home-award" role="listitem"><span>2025</span><strong>Excellent Undergraduate Research Project, Peking University Undergraduate Research Program</strong></div>
+      <div class="home-award" role="listitem"><span>2024–2025</span><strong>Merit Student; National Encouragement Scholarship; Second-Class Scholarship</strong></div>
+      <div class="home-award" role="listitem"><span>2023–2024</span><strong>Award for Academic Excellence; National Encouragement Scholarship</strong></div>
     </div>
   </div>
 </section>
